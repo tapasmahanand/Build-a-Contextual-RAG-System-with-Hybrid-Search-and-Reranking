@@ -10,15 +10,10 @@ Installation
 
 Usage
 
+Workflow
+
 Workflow Example
 
-Project Structure
-
-Contributing
-
-License
-
-Contact
 
 # Project Overview
 
@@ -80,7 +75,7 @@ Input:
 
 JSON lines, PDF files, or Wikipedia-format documents (samples provided)
 
-# Workflow:
+# Workflow
 
 1. Document loading & chunking:
 
@@ -127,20 +122,9 @@ JSON lines, PDF files, or Wikipedia-format documents (samples provided)
 
 5. Run QA directly or modify code for your use-case.
 
-# Contributing
-
-Contributions are welcome!
-
-Please open issues for bugs or suggestions.
-
-To propose new features or improvements, submit a pull request with a clear description.
 
 
-# Contact
 
-Maintainer: Tapas Mahanand
-
-For support/issues: use the GitHub Issues tab
 
 
 
