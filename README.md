@@ -73,7 +73,7 @@ Run the notebook in Google Colab:
 
 Input:
 
-JSON lines, PDF files, or Wikipedia-format documents (samples provided)
+JSON lines, PDF files, or Wikipedia-format documents
 
 # Workflow
 
